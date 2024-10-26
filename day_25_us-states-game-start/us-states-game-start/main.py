@@ -1,3 +1,4 @@
+#import necessary modules
 import turtle
 import pandas
 loc = 'C:/Users/OYIBO Efetobor/Desktop/codes/day_25_us-states-game-start/us-states-game-start/'
